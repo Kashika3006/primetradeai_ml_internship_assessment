@@ -1,0 +1,9 @@
+2026-07-02 12:34:24,795 [INFO] Job execution started.
+2026-07-02 12:34:24,795 [INFO] Loading config profile from config.yaml
+2026-07-02 12:34:24,796 [INFO] Config loaded successfully: version=v1, seed=42, window=5
+2026-07-02 12:34:24,796 [INFO] Loading input data from data.csv
+2026-07-02 12:34:24,855 [INFO] Data validation succeeded. Row processed: 10000 rows.
+2026-07-02 12:34:24,855 [INFO] Computing mathematical window execution blocks...
+2026-07-02 12:34:24,861 [INFO] Processing matrix computation completed successfully.
+2026-07-02 12:34:24,862 [INFO] Metrics written successfully: {'version': 'v1', 'rows_processed': 10000, 'metrics': 'signal_rate', 'value': 0.4991, 'latency_ms': 68, 'seed': 42, 'status': 'success'}
+2026-07-02 12:34:24,862 [INFO] Job finalized with code status: success (0)
